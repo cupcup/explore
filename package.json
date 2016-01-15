@@ -1,0 +1,25 @@
+{
+  "name": "cup-explore",
+  "version": "0.0.1",
+  "description": "Cup explore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cupcup/explore.git"
+  },
+  "author": {
+    "name": "Magnus Dahlstrand",
+    "email": "magnus@mdahlstrand.com",
+    "url": "https://mdahlstrand.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cupcup/explore/issues"
+  },
+  "homepage": "https://github.com/cupcup/explore#readme",
+  "dependencies": {
+  }
+}
